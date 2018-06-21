@@ -53,14 +53,14 @@
 
 	-para el boton de contacto:  buttons__tiatomate
 
-# Requerimiento específico
+## Requerimientos específicos
 
 5.	- La página debe ser responsiva.
 	- Debe mostrar la pasión que siente por sus tomates.
 	- Debe dar enfasis en la compra de sus productos. 
 	- Debe mostrar el logo de la empresa.
 
-# Requerimientos visuales
+## Requerimientos visuales
 
 6.	- Layout: Debe usar Bootstrap.
 
@@ -69,30 +69,32 @@
 7.	- Contenidos: hincapié en la pasión por los tomates y la compra de este producto.
 
 8.	- Estructura Visual
-		-fuentes: usadas de "google fonts"
+	-fuentes: usadas de "google fonts"
 
-9.	- Tipografía: 
-		para los titulos "Inconsolata" ( font-family: 'Inconsolata', monospace;)
-		parrafos y otros elementos "Rufina" ( font-family: 'Rufina', serif;)
+9.	- Tipografía:
+
+para los titulos "Inconsolata" ( font-family: 'Inconsolata', monospace;)
+
+parrafos y otros elementos "Rufina" ( font-family: 'Rufina', serif;)
 
 10.	- Colores: 
-		base de todas las letras "negro (#262222)".
-		para botones y backgrounds "rojo (#f94f1b)".
-		para  barra de navegacion y footer "gris (#c4c1c0)".
-		letras de barra de navegación y footer "white (#fcf6f4)".
+	base de todas las letras "negro (#262222)".
+	para botones y backgrounds "rojo (#f94f1b)".
+	para  barra de navegacion y footer "gris (#c4c1c0)".
+	letras de barra de navegación y footer "white (#fcf6f4)".
 
 11.	- Imágenes: contenidas dentro de carpeta imagenes.
-	a.- imagen de tomates.
-	b.- imagenes peronas cosechando sus tomates.
+1. imagen de tomates.
+2. imagenes peronas cosechando sus tomates.
 
 12.	- Iconos: usare font-awesome.
 
 
-# dibujo para pc
+### dibujo para pc
 ![](assets/imagenes/maqueta.jpg)
-# dibujo para movil
+### dibujo para movil
 ![](assets/imagenes/dispositivo-movil.jpg)
-# imagen de creación de directorios
+### imagen de creación de directorios
 ![](assets/imagenes/directorios.jpg)
 
 
