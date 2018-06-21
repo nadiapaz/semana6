@@ -69,7 +69,8 @@
 7.	- Contenidos: hincapié en la pasión por los tomates y la compra de este producto.
 
 8.	- Estructura Visual
-	-fuentes: usadas de "google fonts"
+
+-fuentes: usadas de "google fonts"
 
 9.	- Tipografía:
 
@@ -78,14 +79,16 @@ para los titulos "Inconsolata" ( font-family: 'Inconsolata', monospace;)
 parrafos y otros elementos "Rufina" ( font-family: 'Rufina', serif;)
 
 10.	- Colores: 
-	base de todas las letras "negro (#262222)".
-	para botones y backgrounds "rojo (#f94f1b)".
-	para  barra de navegacion y footer "gris (#c4c1c0)".
-	letras de barra de navegación y footer "white (#fcf6f4)".
+
+-base de todas las letras "negro (#262222)".
+-para botones y backgrounds "rojo (#f94f1b)".
+-para  barra de navegacion y footer "gris (#c4c1c0)".
+-letras de barra de navegación y footer "white (#fcf6f4)".
 
 11.	- Imágenes: contenidas dentro de carpeta imagenes.
-1. imagen de tomates.
-2. imagenes peronas cosechando sus tomates.
+
+imagenes de tomates.
+imagenes de personas cosechando sus tomates.
 
 12.	- Iconos: usare font-awesome.
 
