@@ -80,6 +80,8 @@
 ![](imagenes/maqueta.jpg)
 # dibujo para movil
 ![](imagenes/dispositivo-movil.jpg)
+# imagen de creación de directorios
+![](assets/imagenes/directorios.jpg)
 
 
 
